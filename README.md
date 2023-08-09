@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/LunnaC/LunnaC/raw/main/coffee-break.png" widht="350"/>
+<img align="right" src="https://github.com/LunnaC/LunnaC/raw/main/imagem/coffee-break.png" widht="350"/>
 
-- :books: Estudante de Analise e Desenvolvimento de Sistemas
+- :books: Estudante de Análise e Desenvolvimento de Sistemas
 - :computer: MySQL | CSS | HTML | PHP | BOOTSTRAP 
